@@ -1,10 +1,10 @@
 [
     {
       "id": 1,
-      "name": "Brocolli - 1 Kg",
-      "price": 120,
-      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/broccoli.jpg",
-      "category": "vegetables"
+      "name": "Picolé uva",
+      "price": 2,
+      "image": "https://sorveteitalia.com/wp-content/uploads/2019/08/sorvete-italia-uva.png",
+      "category": "picolé"
     },
     {
       "id": 2,
